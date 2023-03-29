@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herni_postava", "Herni_postava\Herni_postava.csproj", "{E0E5B370-7E72-42EB-9DA5-594198E3CF29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{623FD956-7C56-471F-AF93-E692F7DDA507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0E5B370-7E72-42EB-9DA5-594198E3CF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0E5B370-7E72-42EB-9DA5-594198E3CF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0E5B370-7E72-42EB-9DA5-594198E3CF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0E5B370-7E72-42EB-9DA5-594198E3CF29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{623FD956-7C56-471F-AF93-E692F7DDA507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623FD956-7C56-471F-AF93-E692F7DDA507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623FD956-7C56-471F-AF93-E692F7DDA507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623FD956-7C56-471F-AF93-E692F7DDA507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5D1E976-77A6-4DC7-80AA-F6C37342D853}
+	EndGlobalSection
+EndGlobal

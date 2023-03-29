@@ -1,0 +1,10 @@
+G:\Dokumenty\Visual Studio 2019\zlatuskuv_program(fuj)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\Dokumenty\Visual Studio 2019\zlatuskuv_program(fuj)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\Dokumenty\Visual Studio 2019\zlatuskuv_program(fuj)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\Dokumenty\Visual Studio 2019\zlatuskuv_program(fuj)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\Dokumenty\Visual Studio 2019\zlatuskuv_program(fuj)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\Dokumenty\Visual Studio 2019\zlatuskuv_program(fuj)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\Dokumenty\Visual Studio 2019\zlatuskuv_program(fuj)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\Dokumenty\Visual Studio 2019\zlatuskuv_program(fuj)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Visual Studio 2019\zlatuskuv_program(fuj)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\Dokumenty\Visual Studio 2019\zlatuskuv_program(fuj)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
